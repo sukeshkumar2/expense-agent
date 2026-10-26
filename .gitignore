@@ -1,0 +1,29 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+dist/
+
+# Secrets (keep the example file)
+.env
+.env.*
+!.env.example
+
+# Local data
+backend/expenses.json
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Step guides (kept local only)
+docs/steps/
