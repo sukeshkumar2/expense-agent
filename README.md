@@ -73,7 +73,7 @@ See [PRD.md](PRD.md) for the full design.
 <!-- Each step adds its commands here -->
 
 ```bash
-git clone https://github.com/<your-username>/expense-agent.git
+git clone https://github.com/sukeshkumar2/expense-agent.git
 cd expense-agent
 cp .env.example .env    # then add your OpenAI key
 
